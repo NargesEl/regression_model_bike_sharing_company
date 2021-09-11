@@ -1,1 +1,2 @@
-# regression_model_bike_sharing_company
+# Building and training a regression model for a bike sharing company
+
